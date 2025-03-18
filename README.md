@@ -219,7 +219,7 @@ Project Link: [https://github.com/jlanders2/esv-api-wrapper](https://github.com/
 [license-shield]: https://img.shields.io/github/license/jlanders2/esv-api-wrapper.svg?style=for-the-badge
 [license-url]: https://github.com/jlanders2/esv-api-wrapper/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/jcolelanders
+[linkedin-url]: https://linkedin.com/in/jcole-landers
 [product-screenshot]: images/screenshot.png
 [Typescript]: https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square
 [Typescript-url]: https://www.typescriptlang.org/
