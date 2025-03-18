@@ -1,0 +1,24 @@
+{
+  "name": "esv-api-wrapper",
+  "version": "0.0.1",
+  "description": "A wrapper that makes communicating with the ESV API provided by Crossway simple and easy, includes no external dependencies and enforces the ESV API usage conditions automatically.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "esv-api",
+    "esv",
+    "bible",
+    "esv-bible",
+    "christian",
+    "api",
+    "wrapper"
+  ],
+  "author": "Cole Landers",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^22.13.10",
+    "typescript": "^5.8.2"
+  }
+}
