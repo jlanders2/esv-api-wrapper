@@ -10,3 +10,6 @@
 - Add the rules system to the created esv api client
 - Write tests for rules
 - Add caching system that follows usage rules but allows the end user the ability to not have to make so many requests. Making this wrapper more useful.
+
+- Document all the classes based on the documentation in api, for example, the optional parameters on all the parameter models
+- I need somewhere to store things like the amount of chapters, verses in a book, other rule things
