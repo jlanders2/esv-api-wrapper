@@ -7,7 +7,7 @@
   "scripts": {
     "build": "node build.js",
     "clean": "rimraf ./dist",
-    "text-example": "node ./examples/getEsvText.js"
+    "text-example": "npm run build && node ./examples/getEsvText.js"
   },
   "keywords": [
     "esv-api",
