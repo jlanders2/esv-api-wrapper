@@ -2,8 +2,7 @@ import { EsvApiClient, TextParameters } from "../dist/index.js";
 import checkForEsvApiKeyFile from "./helpers/checkForEsvApiKeyFile.js";
 import readFile from "./helpers/readFile.js";
 
-// To run this example update the API key below and then run the following commands:
-// npm run build
+// To run this example update the API key below and then run the following command:
 // npm run text-example
 
 const esvApiKeyFileResult = checkForEsvApiKeyFile();
