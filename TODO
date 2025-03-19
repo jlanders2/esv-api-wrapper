@@ -1,0 +1,12 @@
+- Create http client for making only get requests
+  - 99.99% sure that ESV API calls are all get requests
+- Write tests for http client
+- Create esv api client that uses http client to make each of the calls available from the api
+  - Will need to create models
+  - Needs to have helper to set users token
+  - simple methods for each possible request
+- Write tests for esv api client
+- Create esv api rules system so that before each request it can be verified whether or not the requester has hit a usage rule limit
+- Add the rules system to the created esv api client
+- Write tests for rules
+- Add caching system that follows usage rules but allows the end user the ability to not have to make so many requests. Making this wrapper more useful.
